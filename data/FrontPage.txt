@@ -1,0 +1,1 @@
+Welcome to the FrontPage of our simple Wiki! You can view the [SecondPage] for more information.
